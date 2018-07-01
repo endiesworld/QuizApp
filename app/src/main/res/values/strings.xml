@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="mistake1">PLS enter the required details in the right format</string>
+    <string name="intro1">Welcome to WAEC quiz app for Nigeria students. Please provide your log in details to continue. HAVE FUN!</string>
+    <string name="login1">name@address.com</string>
+    <string name="passWord1">Password (Use any four digit)</string>
+    <string name="userName1">User Name</string>
+    <string name="passWordSample1">1234</string>
+    <string name="logInButton1">Log In</string>
+    <string name="firstSubject1">PHYSICS</string>
+    <string name="questionOne1">1. Which of the following energy is renewable?</string>
+    <string name="optionOneA1">Petroleum</string>
+    <string name="optionOneB1">Charcoal</string>
+    <string name="optionOneC1">Hydro</string>
+    <string name="optionOneD1">Nuclear</string>
+    <string name="questionTwo1">2. The rate of change of velocity is termed?</string>
+    <string name="optionTwoA1">Velocity</string>
+    <string name="optionTwoB1">Displacement</string>
+    <string name="optionTwoC1">Speed</string>
+    <string name="optionTwoD1">acceleration</string>
+    <string name="questionThree1">3. An image which cannot be formed on a screen is said to be </string>
+    <string name="optionThreeA1">Inserted</string>
+    <string name="optionThreeB1">real</string>
+    <string name="optionThreeC1">Virtual</string>
+    <string name="optionThreeD1">Erect</string>
+    <string name="questionFour1">4. A car travelled a distance of 4km in 40secs. Find the speed in meter per second</string>
+    <string name="optionFourA1">100m/s</string>
+    <string name="optionFourB1">4m/s</string>
+    <string name="optionFourC1">22m/s</string>
+    <string name="optionFourD1">15m/s</string>
+    <string name="questionFive1">5. Calculate the weight of an object whose mass is 5kg. [g=10m/s2 ]</string>
+    <string name="optionFiveA1">25N</string>
+    <string name="optionFiveB1">0.5N</string>
+    <string name="optionFiveC1">50N</string>
+    <string name="optionFiveD1">5N</string>
+    <string name="submit1">SUBMIT</string>
+    <string name="next1">NEXT</string>
+    <string name="closingSpeech1">OUT OF 5 QUESTIONS </string>
+    <string name="again1"> START AGAIN </string>
+    <string name="newUser1">NEW USER</string>
+</resources>
